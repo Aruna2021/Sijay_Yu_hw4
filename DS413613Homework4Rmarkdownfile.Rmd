@@ -7,6 +7,6 @@ output: word_document
 
 ```{r}
 library(tidyverse)
-mpg
+mpg #Then Sijay add some codes
 
 ```
